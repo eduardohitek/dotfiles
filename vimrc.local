@@ -1,6 +1,6 @@
-"" Save Shortcut (Yeah, I'm realy lazy)
+"" Save Shortcut (Yeah, I'm lazy)
 noremap <C-s> :w<cr>
-inoremap <C-s> <esc>:w<cr>
+inoremap <C-s> <esc>:w<cr>a
 
 "" Using ; as : (Yeah, I'm realy lazy)
 noremap ; :
