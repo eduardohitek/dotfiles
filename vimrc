@@ -12,7 +12,7 @@ endif
 let neobundle_readme=expand('~/.vim/bundle/neobundle.vim/README.md')
 
 let g:vim_bootstrap_langs = "javascript,python,html,go"
-let g:vim_bootstrap_editor = "vim"        " nvim or vim
+let g:vim_bootstrap_editor = "vim"				" nvim or vim
 
 if !filereadable(neobundle_readme)
   echo "Installing NeoBundle..."
@@ -543,6 +543,7 @@ augroup END
 
 
 let g:javascript_enable_domhtmlcss = 1
+
 
 
 
