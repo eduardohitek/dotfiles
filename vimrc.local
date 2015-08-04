@@ -1,0 +1,6 @@
+"" Save Shortcut (Yeah, I'm realy lazy)
+noremap <C-s> :w<cr>a
+inoremap <C-s> <esc>:w<cr>a
+
+"" Using ; as : (Yeah, I'm realy lazy)
+noremap ; :
